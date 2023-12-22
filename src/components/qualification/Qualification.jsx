@@ -53,7 +53,7 @@ const Qualification = () => {
                   Lovely Professional University, Jalandhar
                 </span>
                 <div className="qualification__calendar">
-                  <i class="uil uil-calendar-alt"></i>
+                  <i className="uil uil-calendar-alt"></i>
                   2020 - Present
                 </div>
               </div>
@@ -82,7 +82,7 @@ const Qualification = () => {
                   Patna Central School, Patna
                 </span>
                 <div className="qualification__calendar">
-                  <i class="uil uil-calendar-alt"></i>
+                  <i className="uil uil-calendar-alt"></i>
                   2019 - 2020
                 </div>
               </div>
@@ -97,7 +97,7 @@ const Qualification = () => {
                   DAV Public School, Munger
                 </span>
                 <div className="qualification__calendar">
-                  <i class="uil uil-calendar-alt"></i>
+                  <i className="uil uil-calendar-alt"></i>
                   2017 - 2018
                 </div>
               </div>
@@ -122,7 +122,7 @@ const Qualification = () => {
                 </h3>
                 <span className="qualification__subtitle">CipherSchools</span>
                 <div className="qualification__calendar">
-                  <i class="uil uil-calendar-alt"></i>
+                  <i className="uil uil-calendar-alt"></i>
                   June'23 - July'23
                 </div>
               </div>
@@ -147,7 +147,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Reactjs Bootcamp</h3>
                 <span className="qualification__subtitle">CipherSchools</span>
                 <div className="qualification__calendar">
-                  <i class="uil uil-calendar-alt"></i>
+                  <i className="uil uil-calendar-alt"></i>
                   Jan'23 - Feb'23
                 </div>
               </div>
