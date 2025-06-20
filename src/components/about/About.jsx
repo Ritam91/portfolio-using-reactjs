@@ -16,12 +16,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Hey! I'm a final-year B.Tech student at LPU, Punjab, and a
-            passionate full-stack developer. Seeking opportunities to elevate my
-            web development skills, I'm your go-to for cutting-edge solutions.
-            Whether you're a client or recruiter, explore my portfolio to see
-            the fusion of academic knowledge and real-world tech expertise.
-            Let's create something awesome together!
+            Hey! I'm a final-year M.Tech student at Vellore Institute of Technology and a passionate software developer with a strong interest in Artificial Intelligence. I'm driven by the challenge of building intelligent, human-centered tech—whether it's chatbots, virtual assistants, or cutting-edge language models. With a blend of academic knowledge and hands-on experimentation, I'm diving deep into the world of intelligent systems. Whether you're a client, recruiter, or fellow innovator, explore my portfolio to see how I'm shaping the future of AI-driven experiences. Let’s create something impactful together!
           </p>
 
           <a download="" href={CV} className="button button__flex">
